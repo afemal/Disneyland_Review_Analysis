@@ -40,4 +40,4 @@ Analyzing reviews on social media platforms is just one of many ways of gaining 
 * Final Paper.pdf: Documentation of my findings.
 
 ### Presentation
-[disneylandreviewanalysis](https://user-images.githubusercontent.com/61814648/120743488-f8f31a80-c4ad-11eb-8b44-6fbdc681a0e4.png)](https://youtu.be/oLzfKkh34OI)
+![disneylandreviewanalysis](https://user-images.githubusercontent.com/61814648/120743488-f8f31a80-c4ad-11eb-8b44-6fbdc681a0e4.png)](https://youtu.be/oLzfKkh34OI)
